@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的大可爱",
+  "usingComponents": {
+    "bing-lyric": "/components/bing-lyric/bing-lyric"
+  }
+}
