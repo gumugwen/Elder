@@ -55,6 +55,9 @@
 					'[00:99.940]  -- Yours, gumu.']
 			}
 		},
+		components:{
+			bing-lyric:bingLyric,
+		},
 		methods: {
 			copy(e){
 				console.log('index',e)
